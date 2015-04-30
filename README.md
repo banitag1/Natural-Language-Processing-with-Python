@@ -13,5 +13,5 @@ Working with Natural Language Processing with Python.
     - object-oriented programming and structured programming are fully supported, and
     - there are a number of language features which support functional programming and aspect-oriented programming (including by metaprogramming and by magic methods).
     - Many other paradigms are supported using extensions, including design by contract and logic programming.
-    - Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.
-    - An important feature of Python is dynamic name resolution (late binding), which binds method and variable names during program execution.
+  - Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.
+  - An important feature of Python is dynamic name resolution (late binding), which binds method and variable names during program execution.
