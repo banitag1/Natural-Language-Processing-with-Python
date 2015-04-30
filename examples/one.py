@@ -1,5 +1,9 @@
 # Natural Language Processing with Python.
-
-
 __author__ = 'Sequomics'
-print 'Hello, World!'
+# base information.
+company = "Sequomics Corporation" 
+baseURL = "http://sequomics.com/"
+
+
+# to print Hello, World!.
+print ('Hello, World!')
