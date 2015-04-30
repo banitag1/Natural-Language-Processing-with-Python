@@ -8,3 +8,8 @@ Working with Natural Language Processing with Python.
 - History:
   - Python was conceived in the late 1980s and its implementation was started in December 1989 by [Guido van Rossum](http://en.wikipedia.org/wiki/Guido_van_Rossum) at CWI in the Netherlands as a successor to the ABC language (itself inspired by SETL) capable of exception handling and interfacing with the Amoeba operating system.
   - Van Rossum is Python's principal author, and his continuing central role in deciding the direction of Python is reflected in the title given to him by the Python community, benevolent dictator for life (BDFL).
+- Features and Philosophy:
+  - Python is a multi-paradigm programming language:
+    - object-oriented programming and structured programming are fully supported, and
+    - there are a number of language features which support functional programming and aspect-oriented programming (including by metaprogramming and by magic methods).
+    - Many other paradigms are supported using extensions, including design by contract and logic programming.
