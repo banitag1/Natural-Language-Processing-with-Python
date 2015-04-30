@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# -*- character encoding: utf-8 -*-
 #
 # Author  :   Prabhat Kumar
 # Blog    :   http://prabhatkumar.org/
