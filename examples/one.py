@@ -7,3 +7,7 @@ baseURL = "http://sequomics.com/"
 
 # to print Hello, World!.
 print ('Hello, World!')
+
+# to get user name.
+user = "nlp"
+print (user)
