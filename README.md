@@ -15,3 +15,7 @@ Working with Natural Language Processing with Python.
     - Many other paradigms are supported using extensions, including design by contract and logic programming.
   - Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.
   - An important feature of Python is dynamic name resolution (late binding), which binds method and variable names during program execution.
+
+
+
+Copyright © 2015, [Sequomics Corporation](http://sequomics.com/).
